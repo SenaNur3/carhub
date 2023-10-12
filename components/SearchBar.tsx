@@ -72,7 +72,7 @@ const SearchBar = () => {
        />
        <SearchButton otherClasses="sm:hidden"/>
       </div>
-      <SearchButton otherClasses="sm:hidden"/>
+      <SearchButton otherClasses="max-sm:hidden"/>
     </form>
   )
 }
